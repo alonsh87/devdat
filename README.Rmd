@@ -1,7 +1,4 @@
----
-title: "Developing Data Products"
-output: html_document
----
+
 
  
 
